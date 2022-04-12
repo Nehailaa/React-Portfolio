@@ -1,0 +1,81 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 90%;
+  padding: 50px 30px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-weight: 600;
+  line-height: 1.5;
+  font-size: 18px;
+  letter-spacing: .1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bgimg {
+  background-color: black;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contactIcons img {
+  width: 100px;
+  height: 70px;
+  display: inline-block;
+  padding: 0 10px 10px 25px;
+}
+
+.banner-text {
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-wrapper {
+  
+  display: flex;
+  justify-content: space-evenly
+}
+
+h1 {
+  color:aliceblue;
+}
+
+.about-section {
+  background-color: rgb(33, 38, 36);
+  color: rgb(144, 144, 210);
+  font-size: 20px;
+}
+
+.black-header {
+  color: rgb(82, 244, 46);
+  background-color: black;
+  justify-content: center;
+  display: flex;
+}
+
+.colors {
+ color: rgb(67, 143, 210);
+
+}
+
+.container{
+display: flex;
+justify-content:center ;
+font-weight: bold;
+}
+
+.projects {
+  background-color: black;
+}
