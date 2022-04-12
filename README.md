@@ -1,11 +1,21 @@
 # React-Portfolio
 
 
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Questions](#questions)
+
+
 
 ## Description
 
  Being a web developer means being part of a community. In this project, where I need to share my projects not only if I am applying for jobs or working as a freelancer but also so that I can share my work with fellow developers and collaborate on future projects.
 🔍 This is my React Portfolio where I used my new React skills to help set my work apart using the latest technologies.
+
+
+<img src="public/images/mockup.jpg" alt="Mock-up of the project" />
 
 ## User Story
 
@@ -40,13 +50,6 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
-
-## Table of Contents
-- [Description](#description)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [Questions](#questions)
-
 
 
 
